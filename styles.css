@@ -1,0 +1,7 @@
+.button {
+    border-radius: 5px;
+    border-width: 1px;
+    border-style: solid;
+    padding: 5px 5px 5px 5px;
+    line-height: calc(15px + 1em);
+}
